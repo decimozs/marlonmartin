@@ -10,17 +10,21 @@ export default function App() {
         </p>
 
         <p>
-          He's currently a Lead Developer at Binspire, working on IoT, cloud
-          computing, and developing Hiraya, a Filipino-based programming
-          language.
+          He's currently a Lead Developer at{" "}
+          <span className="underline">Binspire</span>, working on IoT, cloud
+          computing, and developing <span className="underline">Hiraya</span>, a
+          Filipino-based programming language.
         </p>
 
-        <p>Previously, he is a full-stack developer at Faithful Threads.</p>
+        <p>
+          Previously, he is a full-stack developer at{" "}
+          <span className="underline">Faithful Threads</span>.
+        </p>
 
         <p>
           Marlon is currently pursuing a Bachelor of Science in Information
           Technology at the Pamantasan ng Lungsod ng Pasig, where he focuses on
-          software engineering and system design.
+          software engineering.
         </p>
 
         <div className="flex flex-row gap-4">
