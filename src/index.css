@@ -1,3 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&family=Public+Sans:ital,wght@0,100..900;1,100..900&family=Schibsted+Grotesk:ital,wght@0,400..900;1,400..900&display=swap");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+* {
+  font-family: "Public Sans", serif;
+  font-optical-sizing: auto;
+}
+
+body {
+  background-color: #3e6259;
+  color: white;
+}
+
+p {
+  line-height: 1.6rem;
+}
