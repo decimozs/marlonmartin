@@ -11,14 +11,15 @@ export default function App() {
 
         <p>
           He's currently a Lead Developer at{" "}
-          <span className="underline">Binspire</span>, working on IoT, cloud
-          computing, and developing <span className="underline">Hiraya</span>, a
+          <span className="underline cursor-pointer">Binspire</span>, working on
+          IoT, cloud computing, and developing{" "}
+          <span className="underline cursor-pointer">Hiraya</span>, a
           Filipino-based programming language.
         </p>
 
         <p>
           Previously, he is a full-stack developer at{" "}
-          <span className="underline">Faithful Threads</span>.
+          <span className="underline cursor-pointer">Faithful Threads</span>.
         </p>
 
         <p>
