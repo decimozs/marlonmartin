@@ -4,7 +4,7 @@ interface FollowCursorProps {
   color?: string;
 }
 
-const FollowCursor: React.FC<FollowCursorProps> = ({ color = "#323232a6" }) => {
+const FollowCursor: React.FC<FollowCursorProps> = ({ color = "#c3e2da" }) => {
   useEffect(() => {
     let canvas: HTMLCanvasElement;
     let context: CanvasRenderingContext2D | null;
