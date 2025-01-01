@@ -18,7 +18,8 @@ export default function App() {
         </p>
 
         <p>
-          Previously, he is a full-stack developer at{" "}
+          Now working as a Freelance Software Developer on side projects,
+          previously a Full-Stack Developer at
           <span className="underline cursor-pointer">Faithful Threads</span>.
         </p>
 
