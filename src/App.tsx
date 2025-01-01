@@ -19,7 +19,7 @@ export default function App() {
 
         <p>
           Now working as a Freelance Software Developer on side projects,
-          previously a Full-Stack Developer at
+          previously a Full-Stack Developer at{" "}
           <span className="underline cursor-pointer">Faithful Threads</span>.
         </p>
 
